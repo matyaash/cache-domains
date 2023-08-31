@@ -1,1 +1,3 @@
 services.cuzk.cz
+ags.cuzk.cz
+geoportal.cuzk.cz
